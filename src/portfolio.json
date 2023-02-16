@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "name": "e-Commerce Database",
+        "image": "https://user-images.githubusercontent.com/110200047/219405339-c06decd1-2a7f-4fb2-961c-f73943cfc89f.png",
+        "github": "https://github.com/shwnsmith12/e-commerce",
+        "deploy": "https://watch.screencastify.com/v/cCHdhVnS3QwL2OoCmNER",
+        "topics": "Sequelize, MySQL, dotenv, express.js, Node.js, Inquire, JavaScript"
+    },
+    {
+        "id": 2,
+        "name": "Note Taker",
+        "image": "https://user-images.githubusercontent.com/110200047/205160633-fa6899d0-1633-4841-9cdc-fd0e590f40be.jpeg",
+        "github": "https://github.com/shwnsmith12/note-taker",
+        "deploy": "https://note-taker-shwnsmith12-heroku.herokuapp.com/",
+        "topics": "express.js, Node.js, Inquire, UUID, FS, HTML, CSS, JavaScript"
+    },
+    {
+        "id": 3,
+        "name": "Regex Tutorial",
+        "image": "https://user-images.githubusercontent.com/110200047/219410174-f196d845-f2e4-4c93-a943-098ca742827a.png",
+        "github": "https://github.com/shwnsmith12/regex-tutorial",
+        "deploy": "https://github.com/shwnsmith12/regex-tutorial/blob/main/Regex-Tutorial.md",
+        "topics": "A Github Gist on Regular Expressions (RegEx)"
+    },
+    {
+        "id": 4,
+        "name": "Portfolio Generator",
+        "image": "https://user-images.githubusercontent.com/110200047/204011089-8efdbe38-fa52-48ef-9dc1-cc88b8588402.png",
+        "github": "https://github.com/shwnsmith12/portfolio-gen",
+        "topics": "Node.js, JavaScript, Inquirer, HTML, CSS, jest"
+    },
+    {
+        "id": 5,
+        "name": "Weather Dashboard",
+        "image": "https://user-images.githubusercontent.com/110200047/197915278-7435bfd9-b753-4c2c-a972-413571077460.png",
+        "github": "https://github.com/shwnsmith12/Weather-Dashboard",
+        "deploy": "https://shwnsmith12.github.io/Weather-Dashboard/",
+        "topics": "OpenWeatherMap API, CSS, Javascript"
+    }    
+]
